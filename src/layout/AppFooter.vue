@@ -3,10 +3,10 @@
     <div class="container">
       <div class="row row-grid align-items-center my-md">
         <div v-if="language == 'ko'" class="col-lg-8">
-          <h3 class="text-primary font-weight-light mb-2">블러트 하세요!</h3>
+          <h3 class="text-primary font-weight-light mb-2">Play Steem!</h3>
         </div>
         <div v-else class="col-lg-8">
-          <h3 class="text-primary font-weight-light mb-2">Let's Blurt!</h3>
+          <h3 class="text-primary font-weight-light mb-2">Play Steem!</h3>
         </div>
 
         <!-- <div class="col-lg-4 text-lg-center btn-wrapper">
@@ -59,13 +59,13 @@
 </template>
 
 <script lang="ts">
-import BaseNav from '@/components/BaseNav';
-import BaseDropdown from '@/components/BaseDropdown';
-import CloseButton from '@/components/CloseButton';
-import Cryptoicon from 'vue-cryptoicon';
-import icons from 'vue-cryptoicon/src/icons';
-import { Component, Prop, Vue, Watch } from 'vue-property-decorator';
-import store from '@/store';
+import BaseNav from "@/components/BaseNav";
+import BaseDropdown from "@/components/BaseDropdown";
+import CloseButton from "@/components/CloseButton";
+import Cryptoicon from "vue-cryptoicon";
+import icons from "vue-cryptoicon/src/icons";
+import { Component, Prop, Vue, Watch } from "vue-property-decorator";
+import store from "@/store";
 
 Cryptoicon.add(icons);
 Vue.use(Cryptoicon);
@@ -78,18 +78,18 @@ Vue.use(Cryptoicon);
   },
 })
 export default class AppHeader extends Vue {
-  selectedLang = '';
+  selectedLang = "";
   year = new Date().getFullYear();
 
   // compute language
   get language() {
     // first get the stored lang
     const storeLang = store.getters.selectedLanguage;
-    if (typeof storeLang === 'undefined') {
-      console.log('no stored lang', navigator.language.split('-')[0]);
-      return navigator.language.split('-')[0];
+    if (typeof storeLang === "undefined") {
+      console.log("no stored lang", navigator.language.split("-")[0]);
+      return navigator.language.split("-")[0];
     } else {
-      console.log('stored lang', storeLang);
+      console.log("stored lang", storeLang);
       return storeLang;
     }
   }

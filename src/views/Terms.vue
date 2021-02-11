@@ -34,8 +34,8 @@
             <p class="lead">Terms of Use</p>
             <p>Effective Date: 1 February 2021</p>
             <p>
-                This agreement (the “Agreement”) between you and LetsBlurt. 
-                (“we”, “us”, “our”) sets out your rights to access and use of blurt account and any other products or services provided by us (the “Service”). 
+                This agreement (the “Agreement”) between you and PlaySteem. 
+                (“we”, “us”, “our”) sets out your rights to access and use of steem account and any other products or services provided by us (the “Service”). 
                 If you are accepting this Agreement and using the Services on behalf of a company, organization, government, or other legal entity, 
                 you represent and warrant that you are authorized to do so and have the authority to bind such entity to this Agreement. 
                 By accessing our Service, you agree that you have read, understood and accepted this Agreement.
@@ -49,7 +49,7 @@
             <p class="lead">Privacy Policy</p>
             <p>
                User information and data are used to provide proper service under user's agreement. 
-                More details on privacy policy, please refer to the <a href="https://letsblurt.app/privacy">Privacy Policy</a>.
+                More details on privacy policy, please refer to the <a href="https://playsteemit.club/privacy">Privacy Policy</a>.
             </p>   
           </div>
 
@@ -68,13 +68,13 @@
             <p class="lead">Copyright and Limited License</p>
             <p>
               We may retain data, text, photographs, images, video, audio, graphics, articles, comments, software, code, scripts, and 
-              other content supplied by us or our licensors, which we call “Blurt Content.” 
-              Blurt Content is protected by intellectual property laws, including copyright and 
+              other content supplied by us or our licensors, which we call Steem Content.” 
+              Steem Content is protected by intellectual property laws, including copyright and 
               other proprietary rights of the United States and foreign countries. 
-              Except as explicitly stated in this Agreement, we do not grant any express or implied rights to use Blurt Content.
+              Except as explicitly stated in this Agreement, we do not grant any express or implied rights to use Steem Content.
 
               You are granted a limited, non-exclusive, non-transferable, and non-sublicensable license to access and 
-              use the Service and Blurt Content for your personal use. 
+              use the Service and Steem Content for your personal use. 
               You retain ownership of and responsibility for Content you create or own ("Your Content"). 
               If you're posting anything you did not create yourself or do not own the rights to, 
               you agree that you are responsible for any Content you post; 
@@ -86,10 +86,10 @@
           <div class="col-md-12">
             <p class="lead">Trademark Policy</p>
             <p>
-              “LetsBlurt”, the LetsBlurt logo and any other product or service names, logos, slogans 
+              “PlaySteem”, the PlaySteem logo and any other product or service names, logos, slogans 
               that may appear on the Service are trademarks of us and, may not be copied, imitated, or used, in whole or in part, 
               unless explicitly permitted or without first receiving written permission from us to do so. 
-              The look and feel of LetsBlurt and the Service is protected by copyright. All rights reserved. 
+              The look and feel of PlaySteem and the Service is protected by copyright. All rights reserved. 
               All other trademarks, registered trademarks, product names and company names or logos mentioned or 
               used on our Service are the property of their respective owners and may not be copied, imitated, or used, 
               in whole or in part, without the permission of the applicable trademark holder. 
@@ -102,14 +102,14 @@
           <div class="col-md-12">
             <p class="lead" text="white">Account</p>
             <p>
-              LetsBlurt is a Blurt frontend for mobile devices. You can use the service with your Blurt account. 
+              PlaySteem is a Steem frontend for mobile devices. You can use the service with your Steem account. 
               You can create a new account inside the app.
               The account may not be created in the following cases:
                 <ol>
                     <li>Trying to create an account by using other person's personal information</li>
                     <li>Trying to create multiple accounts</li>
                     <li>Trying to omit required information or to input false information</li>
-                    <li>Trying to use the account that violates the LetsBlurt rules</li>             
+                    <li>Trying to use the account that violates the PlaySteem rules</li>             
                     <li>Trying to use the account that has history of fraud</li>
                 </ol>
                 The account may be used by the account holder, and it cannot be relinquished to others.
@@ -121,7 +121,7 @@
             <p class="lead">Assumption of Risk, Limitations on Liability</p>
             <ol>
               <li>
-                You accept and acknowledge that there are risks associated with utilizing an Blurt blockchain account service including, 
+                You accept and acknowledge that there are risks associated with utilizing an Steem blockchain account service including, 
                 but not limited to, the risk of failure of hardware, software and Internet connections, 
                 the risk of malicious software introduction, 
                 and the risk that third-parties may obtain unauthorized access to information stored within or associated with your Account, 
@@ -140,7 +140,7 @@
                 We will not be responsible or liable to you for any loss and take no responsibility for 
                 and will not be liable to you for any use of our Services, including but not limited to 
                 any losses, damages or claims arising from: (a) User error such as forgotten passwords, 
-                incorrectly constructed transactions, or mistyped Blurt blockchain addresses; 
+                incorrectly constructed transactions, or mistyped Steem blockchain addresses; 
                 (b) Server failure or data loss; (c) Corrupted Account files; (d) Unauthorized access to applications; 
                 (e) Any unauthorized third-party activities, 
                 including without limitation the use of viruses, phishing, brute forcing 
@@ -170,10 +170,10 @@
           </div>
 
           <div class="col-md-12">
-              <p class="lead">Agreement to Hold Blurt Foundation Harmless</p>
+              <p class="lead">Agreement to Hold Steem Foundation Harmless</p>
               <ol>
                 <li>
-                  You agree to hold harmless Blurt Foundation 
+                  You agree to hold harmless Steem Foundation 
                   (and each of our officers, directors, members, employees, agents, and affiliates) from any claim, demand, action, damage, loss, cost, 
                   or expense, including without limitation reasonable legal fees, arising out, or relating to:
                   <ul>
@@ -215,8 +215,8 @@
             <ol>
               <li>
                 As described in more detail below, the Services, among other things, provide software 
-                that facilitates the submission of Blurt blockchain transaction data to the Blurt blockchain 
-                without requiring you to access the Blurt blockchain command line interface.
+                that facilitates the submission of Steem blockchain transaction data to the Steem blockchain 
+                without requiring you to access the Steem blockchain command line interface.
               </li>
               <li>
                 Account and Private Keys. Should you agree to create an Account through our Service, 
@@ -225,10 +225,10 @@
                 We never have access to your Private Key and do not custody any Private Keys on your behalf, 
                 and therefore, assume no responsibility for the management of the Private Key tied to your Account. 
                 The Private Key uniquely match the Account name and must be used in connection 
-                with the Account to authorize the transfer of BLURT and Blurt Dollars from that Account. 
+                with the Account to authorize the transfer of STEEM and Steem Dollars from that Account. 
                 You are solely responsible for maintaining the security of your Private Keys. 
                 You must keep your Private Key access information secure. 
-                Failure to do so may result in the loss of control of BLURT, Blurt Power associated with your Account.
+                Failure to do so may result in the loss of control of STEEM, Steem Power associated with your Account.
               </li>
               <li>
                 No Password Retrieval. We do not receive or store your Account password or Private Keys. 
@@ -236,29 +236,29 @@
                 We cannot assist you with Account password retrieval, reset, or recovery. 
                 You are solely responsible for remembering your Account password. 
                 If you have not safely stored a backup of any Account and password pairs maintained in your Account, 
-                you accept and acknowledge that any BLURT and Blurt Power you have associated 
+                you accept and acknowledge that any STEEM and Steem Power you have associated 
                 with such Account will become permanently inaccessible if you do not have your Account password.
               </li>
               <li>
-                Transactions. All proposed Blurt blockchain transactions must be confirmed and recorded 
-                in the Blurt blockchain via the Blurt distributed consensus network (a peer-to-peer network), 
+                Transactions. All proposed Steem blockchain transactions must be confirmed and recorded 
+                in the Steem blockchain via the Steem distributed consensus network (a peer-to-peer network), 
                 which is not owned, controlled, or operated by us. 
-                The Blurt blockchain is operated by a decentralized network of independent third parties. 
-                We have no control over the Blurt blockchain and therefore cannot 
+                The Steem blockchain is operated by a decentralized network of independent third parties. 
+                We have no control over the Steem blockchain and therefore cannot 
                 and will not ensure that any transaction details you submit 
-                via the Services will be confirmed on the Blurt blockchain. 
+                via the Services will be confirmed on the Steem blockchain. 
                 You acknowledge and agree that the transaction details you submit via the Services may not be completed, 
-                or may be substantially delayed, by the Blurt blockchain. 
-                You may use the Services to submit these details to the Blurt blockchain.
+                or may be substantially delayed, by the Steem blockchain. 
+                You may use the Services to submit these details to the Steem blockchain.
               </li>
               <li>
-                No Storage or Transmission of BLURT, or Blurt Power. BLURT, in any of its forms (BLURT, and Blurt Power) 
+                No Storage or Transmission of STEEM, or Steem Power. STEEM, in any of its forms (STEEM, and Steem Power) 
                 is an intangible, digital asset controlled by you. 
-                These assets exist only by virtue of the ownership record maintained on the Blurt blockchain. 
-                The Service does not store, send, or receive BLURT, or Blurt Power. 
-                Any transfer of title that might occur in any BLURT, 
-                or Blurt Power occurs on the Blurt blockchain and not within the Services. 
-                We do not guarantee that the Service can affect the transfer of title or right in any BLURT, or Blurt Power.
+                These assets exist only by virtue of the ownership record maintained on the Steem blockchain. 
+                The Service does not store, send, or receive STEEM, or Steem Power. 
+                Any transfer of title that might occur in any STEEM, 
+                or Steem Power occurs on the Steem blockchain and not within the Services. 
+                We do not guarantee that the Service can affect the transfer of title or right in any STEEM, or Steem Power.
               </li>
               <li>
                 Relationship. Nothing in this Agreement is intended to nor shall create any partnership, 
@@ -268,23 +268,23 @@
                 Accuracy of Information. You represent and warrant that any information you provide 
                 via the Services is accurate and complete. 
                 You accept and acknowledge that we are not responsible for any errors or omissions 
-                that you make in connection with any Blurt blockchain transaction initiated via the Services, 
+                that you make in connection with any Steem blockchain transaction initiated via the Services, 
                 for instance, if you mistype an Account name or otherwise provide incorrect information. 
                 We strongly encourage you to review your transaction details carefully before completing them via the Services.
               </li>
               <li>
                 No Cancellations or Modifications. 
-                Once transaction details have been submitted to the Blurt blockchain via the Services, 
+                Once transaction details have been submitted to the Steem blockchain via the Services, 
                 The Services cannot assist you to cancel or otherwise modify your transaction details. 
-                We have no control over the Blurt blockchain and do not have the ability to facilitate any cancellation 
+                We have no control over the Steem blockchain and do not have the ability to facilitate any cancellation 
                 or modification requests.
               </li>
               <li>
                 Taxes. It is your responsibility to determine what, 
                 if any, taxes apply to the transactions you for which you have submitted transaction details via the Services, 
                 and it is your responsibility to report and remit the correct tax to the appropriate tax authority. 
-                You agree that the we are not responsible for determining whether taxes apply to your Blurt blockchain transactions 
-                or for collecting, reporting, withholding, or remitting any taxes arising from any Blurt blockchain transactions.
+                You agree that the we are not responsible for determining whether taxes apply to your Steem blockchain transactions 
+                or for collecting, reporting, withholding, or remitting any taxes arising from any Steem blockchain transactions.
               </li>
             </ol>
           </div>
@@ -299,9 +299,9 @@
           </div>
 
           <div class="col-md-12">
-            <p class="lead">No Right to Cancel And/or Reverse Blurt Transactions</p>
+            <p class="lead">No Right to Cancel And/or Reverse Steem Transactions</p>
             <p>
-             If you use a Service to which BLURT, or Blurt Power is transacted, 
+             If you use a Service to which STEEM, or Steem Power is transacted, 
              you will not be able to change your mind once you have confirmed 
              that you wish to proceed with the Service or transaction.
             </p>
@@ -317,7 +317,7 @@
             </p>
             <p>
               If you do not maintain a backup of your Account data outside of the Services, 
-              you will be may not be able to access BLURT, and Blurt Power associated 
+              you will be may not be able to access STEEM, and Steem Power associated 
               with any Account maintained in your Account if we discontinue or deprecate the Services.
             </p>
           </div>
@@ -326,10 +326,10 @@
             <p class="lead">Suspension or Termination of Service</p>
             <p>
               We may suspend or terminate your access to the Services in our sole discretion, 
-              immediately and without prior notice, and delete or deactivate your Blurt account 
+              immediately and without prior notice, and delete or deactivate your Steem account 
               and all related information and files in such without cost to you, including, for instance, 
               if you breach any term of this Agreement. In the event of termination, 
-              your access to the funds in your account will require you access to the Blurt blockchain 
+              your access to the funds in your account will require you access to the Steem blockchain 
               via the command line API or third party tool, and will require you to have access 
               to your backup of your Account data including your Account and Private Keys.
             </p>
@@ -339,16 +339,16 @@
             <p class="lead">Disclaimers</p>
             <p>
               To the fullest extent permitted by applicable law, the Service 
-              and the Blurt Content are provided on an “as is” and “as available” basis, 
+              and the Steem Content are provided on an “as is” and “as available” basis, 
               without warranties of any kind, either express or implied, including, 
               without limitation, implied warranties of merchantability, 
               fitness for a particular purpose, title and non-infringement and any warranties implied 
               by any course of performance or usage of trade. 
-              The company does not represent or warrant that the Service and the Blurt Content: 
+              The company does not represent or warrant that the Service and the Steem Content: 
               (a) will be secure or available at any time or location; 
               (b) are accurate, complete, reliable, current, or error-free or that any defects 
               or errors will be corrected; and (c) are free of viruses or other harmful components. 
-              Your use of the Service and Blurt Content is solely at your own risk. 
+              Your use of the Service and Steem Content is solely at your own risk. 
               Some jurisdictions do not allow the disclaimer of implied terms in contracts with consumers, 
               so some or all of the disclaimers in this Section may not apply to you.
               </p>

@@ -34,7 +34,7 @@
             <p class="lead">Privacy Policy</p>
 <p>Effective Date: 1 February 2021</p>
             <p>
-This Privacy Policy describes how the mobile app "LetsBlurt" collects, uses and discloses information, and what choices you have with respect to the information.
+This Privacy Policy describes how the mobile app "PlaySteem" collects, uses and discloses information, and what choices you have with respect to the information.
 
 Updates in this version of the Privacy Policy reflect changes in data protection law.
 
@@ -50,7 +50,7 @@ Please note that this Policy does not apply to information collected through thi
           <div class="col-md-12">
             <p class="lead">Usages of User Information</p>
             <p>
-              LetsBlurt collects user information for the following purpose:
+              PlaySteem collects user information for the following purpose:
                 <ol>
                     <li>Providing default service or specialized service</li>
                     <li>Notifying personally</li>
@@ -65,7 +65,7 @@ Please note that this Policy does not apply to information collected through thi
           <div class="col-md-12">
             <p class="lead">Information We Collect</p>
    <ol>
-                    <li>Blurt username</li>
+                    <li>Steem username</li>
                     <li>Device information (lanuage, country), cookies</li>
                     <li>User's bookmarks, favorite authors</li>
                     <li>Push notifications settings</li>
@@ -76,7 +76,7 @@ Please note that this Policy does not apply to information collected through thi
           <div class="col-md-12">
             <p class="lead">How To Colllect Information</p>
             <p>
-              LetsBlurt collects user information and data using the followings:
+              PlaySteem collects user information and data using the followings:
                     <ol>
                         <li>When a user signs up and signs under user's agreemment</li>
                         <li>When a user adds a bookmark of a post</li>
@@ -97,14 +97,14 @@ Please note that this Policy does not apply to information collected through thi
           <div class="col-md-12">
             <p class="lead">Sharing User Information</p>
             <p>
-                LetsBlurt never shares user's personal information without account holder's permission except related law cases.
+                PlaySteem never shares user's personal information without account holder's permission except related law cases.
 
             </p>
             <p>
-                LetsBlurt delegates user's not sensitive information to the following third party for the seamless services:
+                PlaySteem delegates user's not sensitive information to the following third party for the seamless services:
                 <ul>
                     <li>Delegation Company: Google Firebase</li>
-                    <li>Delegation Contents: Blurt username, bookmarks, favorite authors</li>
+                    <li>Delegation Contents: Steem username, bookmarks, favorite authors</li>
                     <li>Retention Period: Until deleting an account</li>
                 </ul>
             </p>

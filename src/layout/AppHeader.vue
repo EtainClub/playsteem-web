@@ -8,7 +8,7 @@
         to="/landing-ko"
       >
         <img src="img/brand/logo.png" alt="logo" />
-        <span class="pl-2 pt-5">Let's Blurt</span>
+        <span class="pl-2 pt-5">Play Steem</span>
       </router-link>
       <router-link
         v-else
@@ -17,7 +17,7 @@
         to="/landing"
       >
         <img src="img/brand/logo.png" alt="logo" />
-        <span class="pl-2 pt-5">Let's Blurt</span>
+        <span class="pl-2 pt-5">Play Steem</span>
       </router-link>
 
       <div class="row" slot="content-header" slot-scope="{ closeMenu }">
@@ -55,11 +55,11 @@
         <li class="nav-item">
           <a
             class="nav-link nav-link-icon"
-            href="https://blurt.world/"
+            href="https://steemit.com/@etainclub"
             target="_blank"
             rel="noopener"
             data-toggle="tooltip"
-            title="Blurt World"
+            title="Steemit"
           >
             <!-- <cryptoicon symbol="steem" size="16" color="white" /> -->
             <span class="ml-2">Community</span>
@@ -83,13 +83,13 @@
   </header>
 </template>
 <script lang="ts">
-import BaseNav from '@/components/BaseNav';
-import BaseDropdown from '@/components/BaseDropdown';
-import CloseButton from '@/components/CloseButton';
-import Cryptoicon from 'vue-cryptoicon';
-import icons from 'vue-cryptoicon/src/icons';
-import { Component, Prop, Vue, Watch } from 'vue-property-decorator';
-import store from '@/store';
+import BaseNav from "@/components/BaseNav";
+import BaseDropdown from "@/components/BaseDropdown";
+import CloseButton from "@/components/CloseButton";
+import Cryptoicon from "vue-cryptoicon";
+import icons from "vue-cryptoicon/src/icons";
+import { Component, Prop, Vue, Watch } from "vue-property-decorator";
+import store from "@/store";
 
 Cryptoicon.add(icons);
 Vue.use(Cryptoicon);
@@ -103,29 +103,29 @@ Vue.use(Cryptoicon);
 })
 export default class AppHeader extends Vue {
   // selected language
-  selectedLang: '';
+  selectedLang: "";
 
   // language computed
   get language() {
     // first get the stored lang
     const storeLang = store.getters.selectedLanguage;
-    if (typeof storeLang === 'undefined') {
-      console.log('no stored lang', navigator.language.split('-')[0]);
-      return navigator.language.split('-')[0];
+    if (typeof storeLang === "undefined") {
+      console.log("no stored lang", navigator.language.split("-")[0]);
+      return navigator.language.split("-")[0];
     } else {
-      console.log('stored lang', storeLang);
+      console.log("stored lang", storeLang);
       return storeLang;
     }
   }
 
   selectLanguage(lang: string) {
     // store language
-    this.$store.commit('setSelectedLang', lang);
+    this.$store.commit("setSelectedLang", lang);
     // navigate to the right page
-    if (lang === 'ko') {
-      this.$router.push('/landing-ko').catch(() => console.log('same route'));
-    } else if (lang === 'en') {
-      this.$router.push('/landing').catch(() => console.log('same route'));
+    if (lang === "ko") {
+      this.$router.push("/landing-ko").catch(() => console.log("same route"));
+    } else if (lang === "en") {
+      this.$router.push("/landing").catch(() => console.log("same route"));
     }
   }
 

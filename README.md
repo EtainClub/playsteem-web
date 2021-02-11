@@ -1,4 +1,4 @@
-# Let's Blurt Webpage
+# Play Steem Webpage
 
 ## Project setup
 

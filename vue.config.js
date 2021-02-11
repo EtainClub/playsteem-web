@@ -1,9 +1,9 @@
-const webpack = require('webpack');
+const webpack = require("webpack");
 
 module.exports = {
   chainWebpack: (config) => {
-    config.plugin('html').tap((args) => {
-      args[0].title = "Let's Blurt";
+    config.plugin("html").tap((args) => {
+      args[0].title = "Play Steem";
       return args;
     });
   },
@@ -17,20 +17,20 @@ module.exports = {
   },
   pwa: {
     iconPaths: {
-      favicon32: 'favicon.png',
-      favicon16: 'favicon.png',
-      appleTouchIcon: 'favicon.png',
-      maskIcon: 'favicon.png',
-      msTileImage: 'favicon.png',
+      favicon32: "favicon.png",
+      favicon16: "favicon.png",
+      appleTouchIcon: "favicon.png",
+      maskIcon: "favicon.png",
+      msTileImage: "favicon.png",
     },
-    name: 'Vue Argon Design',
-    themeColor: '#172b4d',
-    msTileColor: '#172b4d',
-    appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: '#172b4d',
+    name: "Vue Argon Design",
+    themeColor: "#172b4d",
+    msTileColor: "#172b4d",
+    appleMobileWebAppCapable: "yes",
+    appleMobileWebAppStatusBarStyle: "#172b4d",
   },
   css: {
     // Enable CSS source maps.
-    sourceMap: process.env.NODE_ENV !== 'production',
+    sourceMap: process.env.NODE_ENV !== "production",
   },
 };

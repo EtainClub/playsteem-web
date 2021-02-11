@@ -6,7 +6,7 @@
         class="section section section-shaped my-0 overflow-hidden"
         style="padding-top: 5px"
       >
-        <div class="shape shape-style-1 bg-gradient-warning shape-skew">
+        <div class="shape shape-style-1 bg-gradient-success shape-skew">
           <span></span>
           <span></span>
           <span></span>
@@ -22,9 +22,9 @@
             <div class="row">
               <div class="col-lg-6">
                 <h1 class="display-3 text-white">
-                  Let's Blurt!
+                  Play Steem!
                   <span>
-                    Let's Blog with Mobile Phones. It is easier and safer!!!
+                    Play Steem with Mobile Phones. It is easier and safer!!!
                   </span>
                 </h1>
                 <!-- <p class="lead text-white">
@@ -59,14 +59,14 @@
                   Coming Soon!
                   <span>
                     For more details, please visit
-                    <a href="https://blurt.world/@letsblurt">here</a>
+                    <a href="https://steemit.com/@etainclub">here</a>
                   </span>
                 </h1>
                 <div class="col-lg-4">
                   <iframe
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/d3e-OAWyRjY"
+                    src="https://www.youtube.com/embed/Ewk05t5Jr_w"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen
@@ -74,7 +74,7 @@
                 </div>
               </div>
               <div class="col-lg-6">
-                <img src="img/letsblurt/letsblurt.jpg" class="img-fluid" />
+                <img src="img/playsteem/playsteem.png" class="img-fluid" />
               </div>
             </div>
           </div>
