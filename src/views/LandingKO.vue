@@ -20,16 +20,16 @@
         <div class="container shape-container d-flex">
           <div class="col px-0">
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-7">
                 <h1 class="display-3 text-white">
-                  Play Steem!
+                  PLAY STEEM!
                   <span>
-                    Play Steem with Mobile Phones. It is easier and safer!!!
+                    Play Steem is an mobile App. It is easier and safer!!!
                   </span>
                 </h1>
                 <!-- <p class="lead text-white">
                   Play your dreams, and you can play with dreams, too.
-                  <b style="color: yellow"></b> is mobile app and
+                  <b style="color: yellow">PlayDreams</b> is mobile app and
                   community of people who share their dreams.
                 </p> -->
                 <div class="btn-wrapper">
@@ -56,24 +56,36 @@
                   >
                 </div>
                 <h1 class="display-3 text-white">
-                  Coming Soon!
+                  Coming Soon! Android APK will be released March 15.
                   <span>
                     For more details, please visit
                     <a href="https://steemit.com/@etainclub">here</a>
                   </span>
                 </h1>
+                <h2>ios Working Demo</h2>
                 <div class="col-lg-4">
                   <iframe
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/Ewk05t5Jr_w"
+                    src="https://www.youtube.com/embed/o6UL7nRS5f4"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  ></iframe>
+                </div>
+                <h2>Android Working Demo</h2>
+                <div class="col-lg-4">
+                  <iframe
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/GAhp5Zx8_s4"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen
                   ></iframe>
                 </div>
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-5">
                 <img src="img/playsteem/playsteem.png" class="img-fluid" />
               </div>
             </div>
@@ -81,7 +93,74 @@
         </div>
       </section>
       <!-- 1st Hero Variation -->
-      <section></section>
+      <section class="section section-lg pt-lg-0 mt--200">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-lg-12">
+              <div class="row row-grid">
+                <div class="col-lg-4">
+                  <card class="border-0" hover shadow body-classes="py-5">
+                    <icon
+                      name="fa fa-calendar-o"
+                      type="primary"
+                      rounded
+                      class="mb-4"
+                    ></icon>
+                    <h5 class="text-primary text-uppercase">Be Free</h5>
+                    <p class="description mt-3">Be Free</p>
+                    <div>
+                      <badge type="primary" rounded>Freedom</badge>
+                      <badge type="primary" rounded>Life</badge>
+                      <badge type="primary" rounded>STEEM</badge>
+                    </div>
+                  </card>
+                </div>
+                <div class="col-lg-4">
+                  <card class="border-0" hover shadow body-classes="py-5">
+                    <!-- <cryptoicon
+                      symbol="steem"
+                      size="48"
+                      style="margin-bottom: 16px"
+                    /> -->
+                    <icon
+                      name="fa fa-calendar-o"
+                      type="primary"
+                      rounded
+                      class="mb-4"
+                    ></icon>
+                    <h5 class="text-success text-uppercase">Be Yourself</h5>
+                    <p class="description mt-3">Be Yourself</p>
+                    <div>
+                      <badge type="success" rounded>You</badge>
+                      <badge type="success" rounded>Yourself</badge>
+                      <badge type="success" rounded>Blog</badge>
+                    </div>
+                  </card>
+                </div>
+                <div class="col-lg-4">
+                  <card class="border-0" hover shadow body-classes="py-5">
+                    <icon
+                      name="fa fa-mobile"
+                      type="warning"
+                      rounded
+                      class="mb-4"
+                    ></icon>
+                    <h5 class="text-warning text-uppercase">Play Steem</h5>
+                    <p class="description mt-3">
+                      You can freely post whatever you want
+                    </p>
+                    <div>
+                      <badge type="warning" rounded>Mobile</badge>
+                      <badge type="warning" rounded>Cryptocurrency</badge>
+                      <badge type="warning" rounded>Apps</badge>
+                    </div>
+                  </card>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   </div>
 </template>

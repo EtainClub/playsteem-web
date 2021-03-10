@@ -17,7 +17,7 @@
               <div class="col-lg-12">
                 <h3 class="text-white">App is on developing</h3>
                 <p class="lead text-white mt-2">
-                  Release of the app is expected in Jan. 2021.
+                  Release of the app is expected in March 2021.
                 </p>
                 <p class="lead text-white mt-2">
                   You can download Android APK below soon.
@@ -45,7 +45,7 @@
                     ></icon>
                     <h5 class="text-danger text-uppercase">Android</h5>
                     <div>
-                      <badge type="danger" rounded>Version 0.1</badge>
+                      <badge type="danger" rounded>Version 1.0.0</badge>
                     </div>
                     <base-button disabled href="#" type="danger" class="mt-4"
                       >Google Play</base-button
@@ -64,7 +64,7 @@
                     ></icon>
                     <h5 class="text-primary text-uppercase">iPhone</h5>
                     <div>
-                      <badge type="primary" rounded>Version 0.1</badge>
+                      <badge type="primary" rounded>Version 1.0.0</badge>
                     </div>
                     <base-button disabled href="#" type="primary" class="mt-4"
                       >App Store</base-button
@@ -83,7 +83,7 @@
                     ></icon>
                     <h5 class="text-info text-uppercase">Android APK</h5>
                     <div>
-                      <badge type="info" rounded>Version 0.1</badge>
+                      <badge type="info" rounded>Version 0.9.0</badge>
                     </div>
                     <base-button disabled href="#" type="info" class="mt-4"
                       >32 Bits</base-button

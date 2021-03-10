@@ -16,7 +16,9 @@
             <div class="row align-items-center">
               <div class="col-lg-12">
                 <h3 class="text-white">모바일 앱 개발 중입니다.</h3>
-                <p class="lead text-white mt-2">1월 중 출시 예정입니다.</p>
+                <p class="lead text-white mt-2">
+                  2021년 3월 중 출시 예정입니다.
+                </p>
                 <p class="lead text-white mt-2">
                   곧 안드로이드 APK 파일을 다운로드 할 수 있을 것입니다.
                 </p>
@@ -43,7 +45,7 @@
                     ></icon>
                     <h5 class="text-danger text-uppercase">안드로이드</h5>
                     <div>
-                      <badge type="danger" rounded>버전 0.1</badge>
+                      <badge type="danger" rounded>버전 1.0.0</badge>
                     </div>
                     <base-button disabled href="#" type="danger" class="mt-4"
                       >Google Play</base-button
@@ -62,7 +64,7 @@
                     ></icon>
                     <h5 class="text-primary text-uppercase">아이폰</h5>
                     <div>
-                      <badge type="primary" rounded>버전 0.1</badge>
+                      <badge type="primary" rounded>버전 1.0.0</badge>
                     </div>
                     <base-button disabled href="#" type="primary" class="mt-4"
                       >App Store</base-button
@@ -81,7 +83,7 @@
                     ></icon>
                     <h5 class="text-info text-uppercase">안드로이드 APK</h5>
                     <div>
-                      <badge type="info" rounded>버전 0.1</badge>
+                      <badge type="info" rounded>버전 0.9.0</badge>
                     </div>
                     <base-button disabled href="#" type="info" class="mt-4"
                       >32 Bits</base-button

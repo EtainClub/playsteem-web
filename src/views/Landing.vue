@@ -20,11 +20,11 @@
         <div class="container shape-container d-flex">
           <div class="col px-0">
             <div class="row">
-              <div class="col-lg-6">
+              <div class="col-lg-7">
                 <h1 class="display-3 text-white">
-                  PLay Steem!
+                  PLAY STEEM!
                   <span>
-                    Play Steem with Mobile Phones. It is easier and safer!!!
+                    Play Steem is an mobile App. It is easier and safer!!!
                   </span>
                 </h1>
                 <!-- <p class="lead text-white">
@@ -56,24 +56,36 @@
                   >
                 </div>
                 <h1 class="display-3 text-white">
-                  Coming Soon!
+                  Coming Soon! Android APK will be released March 15.
                   <span>
                     For more details, please visit
                     <a href="https://steemit.com/@etainclub">here</a>
                   </span>
                 </h1>
+                <h2>ios Working Demo</h2>
                 <div class="col-lg-4">
                   <iframe
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/Ewk05t5Jr_w"
+                    src="https://www.youtube.com/embed/o6UL7nRS5f4"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  ></iframe>
+                </div>
+                <h2>Android Working Demo</h2>
+                <div class="col-lg-4">
+                  <iframe
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/GAhp5Zx8_s4"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen
                   ></iframe>
                 </div>
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-5">
                 <img src="img/playsteem/playsteem.png" class="img-fluid" />
               </div>
             </div>
