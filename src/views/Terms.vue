@@ -170,30 +170,11 @@
           </div>
 
           <div class="col-md-12">
-              <p class="lead">Agreement to Hold Steem Foundation Harmless</p>
-              <ol>
-                <li>
-                  You agree to hold harmless Steem Foundation 
-                  (and each of our officers, directors, members, employees, agents, and affiliates) from any claim, demand, action, damage, loss, cost, 
-                  or expense, including without limitation reasonable legal fees, arising out, or relating to:
-                  <ul>
-                    <li>
-                      Your use of, or conduct in connection with, our Services;
-                    </li>
-                    <li>
-                      Your violation of any term in this Agreement; or
-                    </li>
-                    <li>
-                      Violation of any rights of any other person or entity.
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  If you are obligated to indemnify us, we will have the right, in our sole discretion, 
-                  to control any action or proceeding (at our expense) 
-                  and determine whether we will pursue a settlement of any action or proceeding.
-                </li>
-              </ol>
+            <p class="lead">Fees for Using the PlaySteem Services</p>
+            <p>
+              There are fees to use PlaySteem services. For that, some percentage of posting reward will be set to the PlaySteem account.
+              The percentage varies. Currently, 5% beneficiaries will be used for PlaySteem operation.
+            </p>
           </div>
 
           <div class="col-md-12">
@@ -221,7 +202,7 @@
               <li>
                 Account and Private Keys. Should you agree to create an Account through our Service, 
                 we generate a cryptographic private and public key pair that are provided solely to you 
-                and completely owned by you; provided however that we not store passwords or Private Keys for our you. 
+                and completely owned by you; provided however that we not store passwords or Private Keys for you. 
                 We never have access to your Private Key and do not custody any Private Keys on your behalf, 
                 and therefore, assume no responsibility for the management of the Private Key tied to your Account. 
                 The Private Key uniquely match the Account name and must be used in connection 
@@ -344,7 +325,7 @@
               without limitation, implied warranties of merchantability, 
               fitness for a particular purpose, title and non-infringement and any warranties implied 
               by any course of performance or usage of trade. 
-              The company does not represent or warrant that the Service and the Steem Content: 
+              PlaySteem does not represent or warrant that the Service and the Steem Content: 
               (a) will be secure or available at any time or location; 
               (b) are accurate, complete, reliable, current, or error-free or that any defects 
               or errors will be corrected; and (c) are free of viruses or other harmful components. 

@@ -106,12 +106,16 @@
                       rounded
                       class="mb-4"
                     ></icon>
-                    <h5 class="text-primary text-uppercase">Be Free</h5>
-                    <p class="description mt-3">Be Free</p>
+                    <h5 class="text-primary text-uppercase">It's App!</h5>
+                    <p class="description mt-3">
+                      There are several cool features only for mobile app.
+                    </p>
                     <div>
-                      <badge type="primary" rounded>Freedom</badge>
-                      <badge type="primary" rounded>Life</badge>
-                      <badge type="primary" rounded>STEEM</badge>
+                      <badge type="primary" rounded>Push Messages</badge>
+                      <badge type="primary" rounded>Translation</badge>
+                      <badge type="primary" rounded>OTP</badge>
+                      <badge type="primary" rounded>TTS</badge>
+                      <badge type="primary" rounded>Account Creation</badge>
                     </div>
                   </card>
                 </div>
@@ -128,12 +132,17 @@
                       rounded
                       class="mb-4"
                     ></icon>
-                    <h5 class="text-success text-uppercase">Be Yourself</h5>
-                    <p class="description mt-3">Be Yourself</p>
+                    <h5 class="text-success text-uppercase">
+                      Get Rewards!
+                    </h5>
+                    <p class="description mt-3">
+                      You can get rewards by posting your stories as well as by
+                      voting others' posts. You might be a beneficiary of posts.
+                    </p>
                     <div>
-                      <badge type="success" rounded>You</badge>
-                      <badge type="success" rounded>Yourself</badge>
-                      <badge type="success" rounded>Blog</badge>
+                      <badge type="success" rounded>Posting</badge>
+                      <badge type="success" rounded>Curation</badge>
+                      <badge type="success" rounded>Beneficiary</badge>
                     </div>
                   </card>
                 </div>
@@ -145,9 +154,10 @@
                       rounded
                       class="mb-4"
                     ></icon>
-                    <h5 class="text-warning text-uppercase">Play Steem</h5>
+                    <h5 class="text-warning text-uppercase">Easy and Safe</h5>
                     <p class="description mt-3">
-                      You can freely post whatever you want
+                      Feel the convenience with the App. Your private key never
+                      leaves the outside. Find more cool features!
                     </p>
                     <div>
                       <badge type="warning" rounded>Mobile</badge>

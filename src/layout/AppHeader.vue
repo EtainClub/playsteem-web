@@ -55,6 +55,19 @@
         <li class="nav-item">
           <a
             class="nav-link nav-link-icon"
+            href="https://github.com/EtainClub/playsteem"
+            target="_blank"
+            rel="noopener"
+            data-toggle="tooltip"
+            title="Source on Github"
+          >
+            <i class="fa fa-github"></i>
+            <span class="nav-link-inner--text d-lg-none">Github</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link nav-link-icon"
             href="https://steemit.com/@etainclub"
             target="_blank"
             rel="noopener"

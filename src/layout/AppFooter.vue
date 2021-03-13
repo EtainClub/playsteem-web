@@ -47,11 +47,9 @@
       <div class="row align-items-center justify-content-md-between">
         <div v-if="language == 'ko'" class="col-md-12">
           <p class="lead">라이선스</p>
-          <p>Comming soon.</p>
         </div>
         <div v-else class="col-md-12">
-          <p class="lead">License</p>
-          <p>Coming soon.</p>
+          <p class="lead">MIT License</p>
         </div>
       </div>
     </div>
