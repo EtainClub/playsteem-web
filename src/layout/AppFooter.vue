@@ -46,7 +46,7 @@
       <hr />
       <div class="row align-items-center justify-content-md-between">
         <div v-if="language == 'ko'" class="col-md-12">
-          <p class="lead">라이선스</p>
+          <p class="lead">MIT 라이선스</p>
         </div>
         <div v-else class="col-md-12">
           <p class="lead">MIT License</p>

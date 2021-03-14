@@ -102,8 +102,8 @@
                 <div class="col-lg-4">
                   <card class="border-0" hover shadow body-classes="py-5">
                     <icon
-                      name="fa fa-calendar-o"
-                      type="primary"
+                      name="fa fa-mobile"
+                      type="warning"
                       rounded
                       class="mb-4"
                     ></icon>
@@ -122,17 +122,12 @@
                 </div>
                 <div class="col-lg-4">
                   <card class="border-0" hover shadow body-classes="py-5">
-                    <!-- <cryptoicon
+                    <cryptoicon
                       symbol="steem"
                       size="48"
                       style="margin-bottom: 16px"
-                    /> -->
-                    <icon
-                      name="fa fa-calendar-o"
-                      type="primary"
-                      rounded
-                      class="mb-4"
-                    ></icon>
+                    />
+
                     <h5 class="text-success text-uppercase">
                       Get Rewards!
                     </h5>
@@ -150,7 +145,7 @@
                 <div class="col-lg-4">
                   <card class="border-0" hover shadow body-classes="py-5">
                     <icon
-                      name="fa fa-mobile"
+                      name="fa fa-lock"
                       type="warning"
                       rounded
                       class="mb-4"
