@@ -15,12 +15,15 @@
           <div class="p-5">
             <div class="row align-items-center">
               <div class="col-lg-12">
-                <h3 class="text-white">모바일 앱 개발 중입니다.</h3>
+                <h3 class="text-white">
+                  안드로이드 테스트 앱이 드디어 공개되었습니다.
+                </h3>
                 <p class="lead text-white mt-2">
-                  2021년 3월 중 출시 예정입니다.
+                  정식 출시는 2021년 3월 중 예정되어 있습니다.
                 </p>
                 <p class="lead text-white mt-2">
-                  곧 안드로이드 APK 파일을 다운로드 할 수 있을 것입니다.
+                  지금 안드로이드 APK 파일을 다운로드 할 수 있습니다. 일반적으로
+                  64 Bits를 다운로드 받으시면 됩니다.
                 </p>
               </div>
             </div>
@@ -85,11 +88,19 @@
                     <div>
                       <badge type="info" rounded>버전 0.9.0</badge>
                     </div>
-                    <base-button disabled href="#" type="info" class="mt-4"
-                      >32 Bits</base-button
-                    >
-                    <base-button disabled href="#" type="info" class="mt-4"
+                    <base-button
+                      tag="a"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm64-beta-0.9.0.apk"
+                      type="info"
+                      class="mt-4"
                       >64 Bits</base-button
+                    >
+                    <base-button
+                      tag="a"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm-beta-0.9.0.apk"
+                      type="info"
+                      class="mt-4"
+                      >32 Bits</base-button
                     >
                   </div>
                 </card>

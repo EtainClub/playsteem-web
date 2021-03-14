@@ -15,12 +15,13 @@
           <div class="p-5">
             <div class="row align-items-center">
               <div class="col-lg-12">
-                <h3 class="text-white">App is on developing</h3>
+                <h3 class="text-white">Android Beta (APK) is now available!</h3>
                 <p class="lead text-white mt-2">
                   Release of the app is expected in March 2021.
                 </p>
                 <p class="lead text-white mt-2">
-                  You can download Android APK below soon.
+                  You can download Android APK below now. Please download the 64
+                  Bits file if you don't know what to download.
                 </p>
               </div>
             </div>
@@ -85,11 +86,19 @@
                     <div>
                       <badge type="info" rounded>Version 0.9.0</badge>
                     </div>
-                    <base-button disabled href="#" type="info" class="mt-4"
-                      >32 Bits</base-button
-                    >
-                    <base-button disabled href="#" type="info" class="mt-4"
+                    <base-button
+                      tag="a"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm64-beta-0.9.0.apk"
+                      type="info"
+                      class="mt-4"
                       >64 Bits</base-button
+                    >
+                    <base-button
+                      tag="a"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm-beta-0.9.0.apk"
+                      type="info"
+                      class="mt-4"
+                      >32 Bits</base-button
                     >
                   </div>
                 </card>

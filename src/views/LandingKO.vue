@@ -35,6 +35,7 @@
                 </p> -->
                 <div class="btn-wrapper">
                   <base-button
+                    @click="navigateToDownload"
                     tag="a"
                     class="mb-3 mb-sm-0"
                     type="warning"
@@ -42,6 +43,7 @@
                     >Android</base-button
                   >
                   <base-button
+                    @click="navigateToDownload"
                     tag="a"
                     class="mb-3 mb-sm-0"
                     type="white"
@@ -49,6 +51,7 @@
                     >iPhone</base-button
                   >
                   <base-button
+                    @click="navigateToDownload"
                     tag="a"
                     class="mb-3 mb-sm-0"
                     type="info"
@@ -182,6 +185,10 @@ export default class Landing extends Vue {
   numCountries = 4;
   onClickSteemit() {
     console.log("etain steemit");
+  }
+
+  navigateToDownload() {
+    this.$router.push("/mobile").catch(() => console.log("same route"));
   }
 }
 </script>
