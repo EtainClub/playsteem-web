@@ -60,7 +60,7 @@
                   >
                 </div>
                 <h1 class="display-3 text-white">
-                  안드로이드 설치 파일이 3월 15일에 공개됩니다!
+                  안드로이드와 아이폰 테스트 앱 공개되었습니다!
                   <span>
                     보다 자세한 정보를 위해 다음을 방문하세요.
                     <a href="https://steemit.com/@etainclub">here</a>
@@ -188,7 +188,7 @@ export default class Landing extends Vue {
   }
 
   navigateToDownload() {
-    this.$router.push("/mobile").catch(() => console.log("same route"));
+    this.$router.push("/mobile-ko").catch(() => console.log("same route"));
   }
 }
 </script>

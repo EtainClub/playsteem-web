@@ -65,11 +65,17 @@
                       rounded
                       class="mb-4"
                     ></icon>
-                    <h5 class="text-primary text-uppercase">아이폰</h5>
+                    <h5 class="text-primary text-uppercase">
+                      아이폰 (TestFlight)
+                    </h5>
                     <div>
-                      <badge type="primary" rounded>버전 1.0.0</badge>
+                      <badge type="primary" rounded>버전 0.9.0</badge>
                     </div>
-                    <base-button disabled href="#" type="primary" class="mt-4"
+                    <base-button
+                      tag="a"
+                      href="https://testflight.apple.com/join/PwwsDEry"
+                      type="primary"
+                      class="mt-4"
                       >App Store</base-button
                     >
                   </div>
@@ -90,14 +96,14 @@
                     </div>
                     <base-button
                       tag="a"
-                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm64-beta-0.9.0.apk"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm64-0.9.0.apk"
                       type="info"
                       class="mt-4"
                       >64 Bits</base-button
                     >
                     <base-button
                       tag="a"
-                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm-beta-0.9.0.apk"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm-0.9.0.apk"
                       type="info"
                       class="mt-4"
                       >32 Bits</base-button

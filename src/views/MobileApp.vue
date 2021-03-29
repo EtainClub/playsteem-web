@@ -16,12 +16,14 @@
             <div class="row align-items-center">
               <div class="col-lg-12">
                 <h3 class="text-white">Android Beta (APK) is now available!</h3>
+                <h3 class="text-white">iPhone TestFlight is now available!</h3>
                 <p class="lead text-white mt-2">
-                  Release of the app is expected in March 2021.
+                  Release of the app is expected in April 2021.
                 </p>
                 <p class="lead text-white mt-2">
-                  You can download Android APK below now. Please download the 64
-                  Bits file if you don't know what to download.
+                  You can download Android APK and iPhone Testflight below now.
+                  Please download the 64 Bits file for Android if you don't know
+                  what to download.
                 </p>
               </div>
             </div>
@@ -63,11 +65,17 @@
                       rounded
                       class="mb-4"
                     ></icon>
-                    <h5 class="text-primary text-uppercase">iPhone</h5>
+                    <h5 class="text-primary text-uppercase">
+                      iPhone (TestFlight)
+                    </h5>
                     <div>
-                      <badge type="primary" rounded>Version 1.0.0</badge>
+                      <badge type="primary" rounded>Version 0.9.0</badge>
                     </div>
-                    <base-button disabled href="#" type="primary" class="mt-4"
+                    <base-button
+                      tag="a"
+                      href="https://testflight.apple.com/join/PwwsDEry"
+                      type="primary"
+                      class="mt-4"
                       >App Store</base-button
                     >
                   </div>
@@ -88,14 +96,14 @@
                     </div>
                     <base-button
                       tag="a"
-                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm64-beta-0.9.0.apk"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm64-0.9.0.apk"
                       type="info"
                       class="mt-4"
                       >64 Bits</base-button
                     >
                     <base-button
                       tag="a"
-                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm-beta-0.9.0.apk"
+                      href="https://github.com/EtainClub/playsteem/releases/download/beta-0.9.0/playsteem-arm-0.9.0.apk"
                       type="info"
                       class="mt-4"
                       >32 Bits</base-button

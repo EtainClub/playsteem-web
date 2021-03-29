@@ -59,7 +59,7 @@
                   >
                 </div>
                 <h1 class="display-3 text-white">
-                  Coming Soon! Android APK will be released March 15.
+                  Android APK and iPhone TestFlight are available.
                   <span>
                     For more details, please visit
                     <a href="https://steemit.com/@etainclub">here</a>
