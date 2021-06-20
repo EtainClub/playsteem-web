@@ -48,7 +48,7 @@
                     ></icon>
                     <h5 class="text-danger text-uppercase">안드로이드</h5>
                     <div>
-                      <badge type="danger" rounded>버전 1.0.0</badge>
+                      <badge type="danger" rounded>버전</badge>
                     </div>
                     <base-button disabled href="#" type="danger" class="mt-4"
                       >Google Play</base-button
@@ -69,7 +69,7 @@
                       아이폰 (TestFlight)
                     </h5>
                     <div>
-                      <badge type="primary" rounded>버전 0.9.0</badge>
+                      <badge type="primary" rounded>버전 1.1.0</badge>
                     </div>
                     <base-button
                       tag="a"
@@ -92,7 +92,7 @@
                     ></icon>
                     <h5 class="text-info text-uppercase">안드로이드 APK</h5>
                     <div>
-                      <badge type="info" rounded>버전 0.9.0</badge>
+                      <badge type="info" rounded>버전 1.1.0</badge>
                     </div>
                     <base-button
                       tag="a"
